@@ -1,5 +1,5 @@
 {
     "title": "Drop-Seq data set",
-    "format": "Drop-Seq",
+    "format": "Drop-Seq (tsv)",
     "file": "data.tsv"
 }
